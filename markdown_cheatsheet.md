@@ -1,5 +1,5 @@
 ---
-title = Markdown Datasheet
+title: Markdown Datasheet
 nav_order: 2
 ---
 
