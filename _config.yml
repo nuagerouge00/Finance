@@ -1,0 +1,6 @@
+remote_theme: just-the-docs/just-the-docs
+title: Finance et Economie
+description: Finance et Economie
+# Navigation automatique basée sur la structure de fichiers
+aux_links:
+  "GitHub": "https://github.com/nuagerouge00/finance"
