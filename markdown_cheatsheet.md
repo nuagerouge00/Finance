@@ -1,3 +1,8 @@
+---
+title = Markdown Datasheet
+nav_order: 2
+---
+
 # Aide-mémoire Markdown
 
 ## Titres
