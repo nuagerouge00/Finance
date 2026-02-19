@@ -1,0 +1,21 @@
+/* Titres principaux en bleu */
+h1 {
+  color: #2563eb;
+  border-bottom: 3px solid #2563eb;
+}
+
+/* Titres de niveau 2 en vert */
+h2 {
+  color: #059669;
+}
+
+/* Titres de niveau 3 en orange */
+h3 {
+  color: #d97706;
+}
+
+/* Ou personnaliser les titres dans la navigation */
+.site-title {
+  color: #1e40af !important;
+  font-weight: bold;
+}
