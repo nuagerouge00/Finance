@@ -4,5 +4,4 @@ description: Finance et Economie
 # Navigation automatique basée sur la structure de fichiers
 aux_links:
   "GitHub": "https://github.com/nuagerouge00/finance"
-# Activer le CSS personnalisé
-color_scheme: custom
+
