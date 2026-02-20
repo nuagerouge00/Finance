@@ -5,3 +5,5 @@ description: Finance et Economie
 aux_links:
   "GitHub": "https://github.com/nuagerouge00/finance"
 
+# Ajouter du CSS personnalisé
+heading_anchors: true
