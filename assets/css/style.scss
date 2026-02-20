@@ -1,11 +1,11 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "just-the-docs";
 
 h1 {
   color: #2563eb !important;
-  border-bottom: 3px solid #2563eb;
+  border-bottom: 3px solid #2563eb !important;
 }
 
 h2 {
@@ -18,5 +18,5 @@ h3 {
 
 .site-title {
   color: #1e40af !important;
-  font-weight: bold;
+  font-weight: bold !important;
 }
