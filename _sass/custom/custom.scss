@@ -1,16 +1,12 @@
-
 /* variables des couleurs */
-:root {
-$coul-titre1: #2563eb /*bleu*/
-}
+$coul-titre1: #2563eb; /* bleu */
 
 h1 {
-  /*color: var(--coul-titre1); !important;*/
-  color: #2563eb
+  color: $coul-titre1 !important;
   font-size: 3em !important;
   font-weight: 700 !important;
-  border-bottom: 3px solid #2563eb !important;
-  /* rem important est utilisé pour ecraser la config par defaut */
+  border-bottom: 3px solid $coul-titre1 !important;
+  /* rem important est utilisé pour écraser la config par défaut */
 }
 
 h2 {
@@ -32,8 +28,6 @@ h5 {
 h6 {
   color: #800080 !important;
 }
-
-
 
 .site-title {
   color: #1e40af !important;
