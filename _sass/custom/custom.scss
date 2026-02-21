@@ -1,32 +1,47 @@
 /* variables des couleurs */
 $coul-titre1: #2563eb; /* bleu */
+$coul-titre2: #059669; /* vert */
+$coul-titre3: #DC143C; /* rouge */
+$coul-titre4: #d97706; /* orange */
+$coul-titre5: #B8860B; /* or */
+$coul-titre6: #FF8C00; /* dark orange */
 
 h1 {
   color: $coul-titre1 !important;
-  font-size: 3em !important;
+  font-size: 4em !important;
   font-weight: 700 !important;
   border-bottom: 3px solid $coul-titre1 !important;
   /* rem important est utilisé pour écraser la config par défaut */
 }
 
 h2 {
-  color: #059669 !important;
+  color: $coul-titre2 !important;
+  font-size: 3em !important;
+  font-weight: 700 !important;
 }
 
 h3 {
-  color: #d97706 !important;
+  color: $coul-titre3 !important;
+   font-size: 2em !important;
+  font-weight: 700 !important;
 }
 
 h4 {
-  color: #20B2AA !important;
+  color: $coul-titre4 !important;
+  font-size: 1.7em !important;
+  font-weight: 700 !important;
 }
 
 h5 {
-  color: #FFA500 !important;
+  color: $coul-titre5 !important;
+    font-size: 1.5em !important;
+  font-weight: 700 !important;
 }
 
 h6 {
-  color: #800080 !important;
+  color: $coul-titre6 !important;
+    font-size: 1.2em !important;
+  font-weight: 700 !important;
 }
 
 .site-title {
