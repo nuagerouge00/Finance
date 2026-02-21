@@ -5,7 +5,8 @@ $coul-titre1: #2563eb /*bleu*/
 }
 
 h1 {
-  color: var(--coul-titre1); !important;
+  /*color: var(--coul-titre1); !important;*/
+  color: #2563eb
   font-size: 3em !important;
   font-weight: 700 !important;
   border-bottom: 3px solid #2563eb !important;
